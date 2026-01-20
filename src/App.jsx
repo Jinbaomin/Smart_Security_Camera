@@ -302,7 +302,7 @@ export default function App() {
               Đơn vị: Khoa Kỹ thuật máy tính và Điện tử, Trường Đại học Công nghệ Thông tin & Truyền thông Việt - Hàn (VKU).
               </div>
               <div style={{ marginTop: 6 }}>
-                Giáo Viên Hướng Dẫn: ThS.Nguyễn Thị Huyền
+                Giáo Viên Hướng Dẫn: ThS.Nguyễn Thị Huyền Trang
               </div>
             </div>
           </div>
